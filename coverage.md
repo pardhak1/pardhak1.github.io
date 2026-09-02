@@ -13,7 +13,7 @@ Quarterly earnings reports on four tickers — CMG, QSR, MCD, YUM. Each post goe
   {
   "symbols": [
     ["Chipotle", "NYSE:CMG|1D"],
-    ["Restaurant Brands Intl", "NYSE:QSR|1D"],
+    ["Restaurant Brands International", "NYSE:QSR|1D"],
     ["McDonald's", "NYSE:MCD|1D"],
     ["Yum! Brands", "NYSE:YUM|1D"]
   ],
