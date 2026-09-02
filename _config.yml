@@ -1,0 +1,30 @@
+title: Fast Food Industry Coverage
+description: >-
+  Weekly earnings coverage and industry notes on public fast food /
+  QSR companies — McDonald's, Restaurant Brands International, Yum! Brands,
+  and Chipotle.
+baseurl: "" # subpath if hosted at username.github.io/repo-name — otherwise leave blank
+url: "" # fill in with your final site URL once you know it (e.g. https://yourusername.github.io)
+
+# Uses GitHub Pages' built-in Jekyll build — no local Ruby setup required
+# if you're fine editing directly on github.com or via GitHub Desktop.
+theme: minima
+
+# Top nav — minima reads this automatically
+header_pages:
+  - about.md
+  - weekly.md
+  - coverage.md
+
+# Ticker list — used for consistency, not required by Jekyll itself,
+# but handy to keep here as a single source of truth for what you're tracking
+tickers:
+  - CMG
+  - QSR
+  - MCD
+  - YUM
+
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
