@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about.html
 ---
+# Pardha Kanchiraju
 
 I'm an Industrial & Systems Engineering student at Georgia Tech (concentrating in Economic & Financial Systems), graduating December 2026. Recently, I completed an internship at Bank of America and currently interning at Inspire Brands.
 
